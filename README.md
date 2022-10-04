@@ -1,5 +1,5 @@
-# Functional programming exercises solutions
-This is the repository with solutions from Functional programming (Programowanie funkcyjne) exercises at AGH. Here I will share all of the codes written by me. All codes are written in English but the content of the labs is in Polish. Also all codes are written in Haskell in Jupyter Notebook.
+# Functional programming course at AGH UST
+The repository with solutions from Functional programming (Programowanie funkcyjne) lab classes at AGH UST. Here I will share all of the codes written by me and codes written during laboratories. All codes are written in English but the content is in Polish. The leading programming language during this course was Haskell that was used along the Jupyter Notebook. The repository consists of solutions for assignments during the course.
 ## Table of contents
 Table of contents consists of specific sections in repository. Each section consists of jupyter notebook in which there are contents of the labs and solutions.
 1. [Lab 1](https://github.com/Szymon-Budziak/Functional_programming_exercises_solutions/tree/main/Lab_1)
